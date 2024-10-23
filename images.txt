@@ -1,3 +1,2 @@
-nginx
 1panel/maxkb
 ghcr.io/open-webui/open-webui
