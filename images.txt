@@ -1,1 +1,3 @@
-ollamawebui/ollama-webui
+dreamacro/clash
+xhofe/alist
+tindy2013/subconverter
